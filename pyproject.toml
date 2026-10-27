@@ -1,0 +1,11 @@
+[project]
+name = "playwrightdemo"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "playwright>=1.60.0",
+    "pytest>=8.4.2",
+    "pytest-playwright>=0.7.1",
+    "pytest-selenium>=4.1.0",
+    "selenium>=4.36.0",
+]
